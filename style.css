@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nawigacja {
+    background-color: rgb(13, 116, 102);
+    height: 80px;
+}
+.li2 {
+    text-decoration: underline;
+}
+.li1{
+    margin-left: 20px ;
+    margin-top: 10px;
+    display: inline-flex;
+    font-weight: 50px;
+    color: white;
+}
+.ramka {
+    border: 1px solid black;
+    width: 710px;
+    margin-top: 80px;
+    margin-left: 265px;
+    height: 110px;
+    margin-top: 80px;
+}
+.tekst {
+    color: rgb(13, 116, 102);
+    margin-left: 57px;
+    padding-top: 20px;
+    font-size: 30px;
+    height: 96px;
+}
+.grid {
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.book1 {
+    width: 430px;
+    margin-left: 50px;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.padding {
+    padding: 30px;
+}
+.txt1 {
+    margin-bottom: 10px;
+}
+.txtlor {
+    color: grey;
+}
+.grid2{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-bottom: 10px;
+}
+.przycisk {
+    color: rgb(13, 116, 102);
+    width: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 300px;
+    border: none;
+    outline: none;
+    background-color: white;
+}
